@@ -1,4 +1,4 @@
-print("Wersja z new branch")
+print("Wersja main")
 print("Uczę się Gita!")
 print("To jest mój drugi commit!")
 print("Ta funkcja jest tylko na feature-test!")
