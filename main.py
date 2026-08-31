@@ -1,5 +1,5 @@
 print("Wersja main")
+print("ten print jest tylko na conflict-branch")
 print("Uczę się Gita!")
 print("To jest mój drugi commit!")
 print("Ta funkcja jest tylko na feature-test!")
-print("Tego printa dodalem na githubie!")
