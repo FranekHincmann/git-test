@@ -1,4 +1,4 @@
-print("conflict print")
+print("ten print jest tylko na conflict-branch")
 print("Uczę się Gita!")
 print("To jest mój drugi commit!")
 print("Ta funkcja jest tylko na feature-test!")
